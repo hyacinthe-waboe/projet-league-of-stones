@@ -20,6 +20,8 @@ Deux joueurs s'affrontent avec leur propre deck de champions. Il faut gérer sa 
 
 Ce projet a été réalisé en groupe pendant la **Licence 3 MIASHS** à l'Université Toulouse - Jean Jaurès.
 
+Le backend Express et MongoDB était fourni dans le cadre du projet. Mon rôle dans le groupe portait sur l'adaptation mobile de l'interface Next.js et React.
+
 ## ✨ Fonctionnalités
 
 - 🔐 inscription, connexion et gestion du profil ;
@@ -72,6 +74,8 @@ Ce projet a été réalisé en groupe pendant la **Licence 3 MIASHS** à l'Unive
 ## 🚀 Lancer une partie en local
 
 ### 1. Démarrer le backend
+
+Prévoir **Node.js 20.9 ou supérieur**, npm et MongoDB. La version de Next.js enregistrée dans `leagueofront/package-lock.json` exige au minimum Node.js 20.9.
 
 MongoDB doit être lancé sur la machine.
 
